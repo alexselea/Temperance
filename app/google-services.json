@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "121130816688",
+    "firebase_url": "https://database-temperance.firebaseio.com",
+    "project_id": "database-temperance",
+    "storage_bucket": "database-temperance.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:121130816688:android:d530a329d4f4fbc3",
+        "android_client_info": {
+          "package_name": "com.temperance.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "121130816688-dnoi0vekkjm769kn2nskkh3r70lnrthr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.temperance.app",
+            "certificate_hash": "cdbd8e7ae83243412c9a083c1ada9f61a269c896"
+          }
+        },
+        {
+          "client_id": "121130816688-5vcdaef84v0asja4d8719n52oqurle8p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2sYr2KOwpJGISlgJQvRWwBprMNd559Sg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "121130816688-5vcdaef84v0asja4d8719n52oqurle8p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
